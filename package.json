@@ -41,7 +41,7 @@
     "keyword-extractor": "0.0.13",
     "log4js": "^1.0.1",
     "mongodb": "^2.2.11",
-    "mongoose": "^4.7.0",
+    "mongoose": "^5.11.7",
     "morgan": "^1.7.0",
     "muicss": "^0.9.4",
     "neo4j-driver": "^1.0.5",
