@@ -48,7 +48,7 @@
     "rc-pagination": "^1.6.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
-    "react-grid-system": "^1.5.2",
+    "react-grid-system": "^3.0.2",
     "react-router": "^3.0.0",
     "request": "^2.79.0",
     "semantic-ui-react": "^0.63.5",
