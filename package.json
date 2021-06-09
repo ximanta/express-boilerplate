@@ -38,7 +38,7 @@
     "gulp": "^3.9.1",
     "highland": "^2.10.1",
     "html-webpack-plugin": "^2.26.0",
-    "keyword-extractor": "0.0.13",
+    "keyword-extractor": "0.0.20",
     "log4js": "^1.0.1",
     "mongodb": "^2.2.11",
     "mongoose": "^4.7.0",
