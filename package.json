@@ -39,7 +39,7 @@
     "highland": "^2.10.1",
     "html-webpack-plugin": "^2.26.0",
     "keyword-extractor": "0.0.13",
-    "log4js": "^1.0.1",
+    "log4js": "^6.4.0",
     "mongodb": "^2.2.11",
     "mongoose": "^4.7.0",
     "morgan": "^1.7.0",
