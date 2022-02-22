@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/stackroute/oxygen#readme",
   "dependencies": {
-    "amqplib": "^0.5.1",
+    "amqplib": "^0.7.1",
     "array-flatten": "^2.1.1",
     "async": "^2.1.4",
     "body-parser": "^1.15.2",
