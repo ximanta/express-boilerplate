@@ -29,7 +29,7 @@
   "dependencies": {
     "amqplib": "^0.5.1",
     "array-flatten": "^2.1.1",
-    "async": "^2.1.4",
+    "async": "^3.2.2",
     "body-parser": "^1.15.2",
     "cheerio": "^0.22.0",
     "compression": "^1.6.2",
@@ -41,7 +41,7 @@
     "keyword-extractor": "0.0.13",
     "log4js": "^1.0.1",
     "mongodb": "^2.2.11",
-    "mongoose": "^4.7.0",
+    "mongoose": "^5.7.3",
     "morgan": "^1.7.0",
     "muicss": "^0.9.4",
     "neo4j-driver": "^1.0.5",
