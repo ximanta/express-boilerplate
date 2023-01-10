@@ -39,9 +39,9 @@
     "highland": "^2.10.1",
     "html-webpack-plugin": "^2.26.0",
     "keyword-extractor": "0.0.13",
-    "log4js": "^1.0.1",
+    "log4js": "^2.4.1",
     "mongodb": "^2.2.11",
-    "mongoose": "^4.7.0",
+    "mongoose": "^5.2.6",
     "morgan": "^1.7.0",
     "muicss": "^0.9.4",
     "neo4j-driver": "^1.0.5",
@@ -51,8 +51,8 @@
     "react-grid-system": "^1.5.2",
     "react-router": "^3.0.0",
     "request": "^2.79.0",
-    "semantic-ui-react": "^0.63.5",
-    "superagent": "^2.3.0"
+    "semantic-ui-react": "^0.71.5",
+    "superagent": "^3.6.1"
   },
   "devDependencies": {
     "babel": "^6.5.2",
